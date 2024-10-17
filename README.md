@@ -1,1 +1,1 @@
-# aryaalfin
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-kappa-neon.vercel.app/api?username=Aryaalvin9&theme=radical&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Aryaalvin9 github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-kappa-neon.vercel.app/api/top-langs/?username=Aryaalvin9&layout=compact&theme=merko&hide_border=true" /></a> 
