@@ -6,8 +6,8 @@
 
 Building reliable mobile experiences, scalable backend services, and thoughtful software architecture.
 
-[![GitHub followers](https://img.shields.io/github/followers/Aryaalvin9?style=flat-square&label=Followers&color=873F56)](https://github.com/Aryaalvin9?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=Aryaalvin9&color=873F56&style=flat-square)](https://github.com/Aryaalvin9)
+[![Followers](https://img.shields.io/github/followers/Aryaalvin9?style=flat-square&label=Followers&color=873F56)](https://github.com/Aryaalvin9?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=Aryaalvin9&color=873F56&style=flat-square)
 
 </div>
 
@@ -16,7 +16,7 @@ Building reliable mobile experiences, scalable backend services, and thoughtful 
 - 📱 Mobile engineering: **Flutter, Kotlin, Swift**
 - ⚙️ Backend: **Golang, Node.js, PostgreSQL, gRPC**
 - 🧠 On-device ML: **Google ML Kit, TensorFlow Lite**
-- 🏗️ Interested in **Clean Architecture, performance, testing, and maintainability**
+- 🏗️ Focus: **Clean Architecture, performance, testing, and maintainability**
 
 ## Recently Active Repositories
 
@@ -27,26 +27,26 @@ _This section will populate after the first successful GitHub Actions run._
 ## GitHub Insights
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryaalvin9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=873F56&text_color=C9D1D9&icon_color=873F56" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaalvin9&layout=compact&hide_border=true&bg_color=0D1117&title_color=873F56&text_color=C9D1D9" alt="Top languages" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryaalvin9&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaalvin9&layout=compact&theme=github_dark&hide_border=true)
+
 </div>
 
-> Stats are third-party widgets and may be rate-limited. Top languages reflects repository code, not skill level.
+> These are third-party widgets and may occasionally be unavailable. Language usage reflects repository code, not skill level.
 
-## Contribution Activity
+## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryaalvin9&bg_color=0d1117&color=c9d1d9&line=873f56&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
-</div>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryaalvin9&theme=github-compact&hide_border=true)
 
 ## Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/Aryaalvin9/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/Aryaalvin9/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Aryaalvin9/Aryaalvin9/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryaalvin9/Aryaalvin9/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryaalvin9/Aryaalvin9/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Aryaalvin9/Aryaalvin9/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/) · [Portfolio](https://github.com/Aryaalvin9)
+[GitHub](https://github.com/Aryaalvin9) · [LinkedIn](https://www.linkedin.com/)
